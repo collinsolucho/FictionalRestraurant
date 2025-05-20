@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+    font-family: 'Roboto', sans-serif;
+    
+}
+body{
+    background-color: #7f5539;
+}
+ li {
+    display: inline;
+    text-decoration: none;
+    gap: 20px;
+    list-style: none;
+    color: black;
+    
+ }
+ li a:hover{
+    color: aqua;
+ }
+ .nav{
+    margin: 20px 6px 8px;
+ }
+ #appetizer ,#desserts,#courses {
+    background-color: antiquewhite;
+ }
+ .nav a{
+   color: white;
+ }
